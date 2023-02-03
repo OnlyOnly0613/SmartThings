@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "HomebridgeSmartThings",
+  "pluginAlias": "SmartThingsHomeKit",
   "pluginType": "platform",
   "singular": true,
   "schema": {
