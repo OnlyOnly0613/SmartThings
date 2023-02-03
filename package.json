@@ -1,16 +1,16 @@
 {
   "private": false,
-  "displayName": "SmartThings Plugin",
-  "name": "homebridge-smartthings-ik",
+  "displayName": "SmartThings HomeKit",
+  "name": "SmartThings-HomeKit",
   "version": "1.5.0",
-  "description": "Connects SmartThings devices to Homebridge.  Automatically discovers devices.",
+  "description": "Connect SmartThings Things",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iklein99/homebridge-smartthings.git"
+    "url": "https://github.com/OnlyOnly0613/SmartThings.git"
   },
   "bugs": {
-    "url": "https://github.com/iklein99/homebridge-smartthings/issues"
+    "url": "https://github.com/OnlyOnly0613/SmartThings/issues"
   },
   "engines": {
     "node": ">=14.18.1",
@@ -40,15 +40,5 @@
     "rimraf": "^3.0.2",
     "ts-node": "^10.3.0",
     "typescript": "^4.4.4"
-  },
-  "funding": [
-    {
-      "type": "paypal",
-      "url": "https://www.paypal.com/paypalme/iklein99"
-    },
-    {
-      "type": "venmo",
-      "url": "https://venmo.com/?txn=pay&audience=public&recipients=ira-klein-3"
-    }
-  ]
+  }
 }
